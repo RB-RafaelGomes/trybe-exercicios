@@ -1,1 +1,1 @@
-# Meu-primeiro-repo
+# trybe-exercicios
