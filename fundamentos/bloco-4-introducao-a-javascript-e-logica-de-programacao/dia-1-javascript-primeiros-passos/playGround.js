@@ -42,4 +42,3 @@ else {console.log("False : Exercico :05")}
 
 // Exercicio : 06
 
-
