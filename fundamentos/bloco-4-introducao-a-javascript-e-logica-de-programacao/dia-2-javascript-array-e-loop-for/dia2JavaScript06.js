@@ -11,7 +11,9 @@ for (let index = 0; index<numbers.length; index+= 1 )
 if(numerosImpares > 0)
 {
     console.log("Existem "+ numerosImpares +" numeros impares" );
-}else{console.log("Não existe numero impares")}
+}else{
+    console.log("Não existe numero impares")
+}
 
 
 
